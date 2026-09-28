@@ -1,12 +1,13 @@
 ## Hi there 👋
 
-# My Work Directory
+# My Business Analytics Portfolio (Work in Progress)
 Welcome! Here is a directory of my projects, data analyses, and live tools.
 
-### 📊 Data Analytics & Programming
-* [Project Title 1](https://link-to-your-work.com) - A brief 1-sentence fragment describing what this project does.
-* [Project Title 2](https://link-to-your-work.com) - Another short fragment explaining the tech used.
+### 📊 Data Analytics & Dashboard
+* [Project Title 1](https://link-to-your-work.com) - [Project A] PowerBI Dashboard explaining ____.
+* [Project Title 2](https://link-to-your-work.com) - [Project B] Excel Dashboard about _____.
+* [Project Title 2](https://link-to-your-work.com) - [Project C] Google Sheet Dashboard about _____.
 
-### 🌐 Web Applications & Tools
-* [Project Title 3](https://link-to-your-work.com) - Short punchy description.
-* [Project Title 4](https://link-to-your-work.com) - Short punchy description.
+### 🌐 R & Phyton
+* [Project Title 3](https://link-to-your-work.com) - [Project D] Short punchy description.
+* [Project Title 4](https://link-to-your-work.com) - [Project E]
