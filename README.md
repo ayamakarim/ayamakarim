@@ -1,6 +1,6 @@
-## Hi there 👋
+## Welcome👋
 
-# My Business Analytics Portfolio (Work in Progress)
+# Business Analytics Portfolio (Work in Progress)
 Welcome! Here is a directory of my projects, data analyses, and live tools.
 
 ### 📊 Data Analytics & Dashboard
